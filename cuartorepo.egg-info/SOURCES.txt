@@ -1,0 +1,6 @@
+README.md
+setup.py
+cuartorepo.egg-info/PKG-INFO
+cuartorepo.egg-info/SOURCES.txt
+cuartorepo.egg-info/dependency_links.txt
+cuartorepo.egg-info/top_level.txt
